@@ -13,7 +13,7 @@ Attribute 管理規格.VB_ProcData.VB_Invoke_Func = " \n14"
     
     w_取代 = ""
     
-    '歯形・歯筋設定     歯形、歯筋規格無 ＆ JIS4級の時
+    '歯形・歯筋設定     歯形、歯筋規格無 ＆ JIS4級の時   aaaa
     j = 0
     If Sheets("貼付けｼｰﾄ").Range("M3") = "無" And Mid(Sheets("入力ｼｰﾄ").Range("D10"), 4, 1) = "4" Then
         
