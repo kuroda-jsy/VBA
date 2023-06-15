@@ -10,9 +10,9 @@
   },
   "files.encoding": "shiftjis",
   "files.associations": {
-    "*.bas": "vb",
-    "*.cls": "vb",
-    "*.dcm": "vb",
-    "*.frm": "vb",
+    "*.bas": "vba",
+    "*.cls": "vba",
+    "*.dcm": "vba",
+    "*.frm": "vba",
   }
 }
